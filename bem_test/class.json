@@ -1,0 +1,7 @@
+{
+  "name": "bem test",
+  "description": "bla",
+  "image": "http://openbadge.github.io/data-test/bem_test/img.png",
+  "criteria": "http://google.com",
+  "issuer": "http://openbadge.github.io/data-test/issuer.json"
+}
