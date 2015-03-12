@@ -1,0 +1,14 @@
+{
+  "uid": "su44akugv844fpv3iy9r",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "job.egavr@yandex.ru"
+  },
+  "badge": "http://openbadge.github.io/data-test/faaaaaail/class.json",
+  "issuedOn": 1426171395,
+  "verify": {
+    "type": "hosted",
+    "url": "http://openbadge.github.io/data-test/faaaaaail/su44akugv844fpv3iy9r.json"
+  }
+}
