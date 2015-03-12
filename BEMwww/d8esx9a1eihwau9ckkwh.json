@@ -1,0 +1,14 @@
+{
+  "uid": "d8esx9a1eihwau9ckkwh",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "job.egavr@yandex.ru"
+  },
+  "badge": "http://openbadge.github.io/data-test/BEMwww/class.json",
+  "issuedOn": 1426165614,
+  "verify": {
+    "type": "hosted",
+    "url": "http://openbadge.github.io/data-test/BEMwww/d8esx9a1eihwau9ckkwh.json"
+  }
+}
